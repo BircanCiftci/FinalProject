@@ -6,7 +6,7 @@ using System.Text;
 
 namespace DateAccess.Abstract
 {
-    public interface ICategoryDal : IEntityRepository<Category>
+    public interface IOrderDal : IEntityRepository<Order>
     {
     }
 }
